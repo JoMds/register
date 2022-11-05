@@ -1,3 +1,10 @@
+<?php
+
+require_once "config.php";
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +14,6 @@
     <title>Document</title>
 </head>
 <body>
-    asdasd
+
 </body>
 </html>
